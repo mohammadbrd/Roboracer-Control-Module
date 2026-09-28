@@ -21,10 +21,6 @@ The wider team developed the other parts of the autonomy stack, including percep
 
 ROS 2 Humble, C++, Pure Pursuit, PID, Ackermann steering, odometry, RViz, and F1TENTH simulation and hardware.
 
-## Academic Context
-
-FAU Erlangen-Nürnberg, M.Sc. Autonomy Technologies. Completed as the Team Project / Industriepraktikum module, 10 ECTS, passed.
-
 ## Author
 
 [Mohammad Barabadi](https://github.com/mohammadbrd) | Control Module Developer
