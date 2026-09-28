@@ -17,6 +17,8 @@ This repository documents my contribution to the team project. The full source c
 
 The wider team developed the other parts of the autonomy stack, including perception, state estimation, mapping, and navigation planning. The linked implementation reflects the team's shared development.
 
+## Technologies
+
 ROS 2 Humble, C++, Pure Pursuit, PID, Ackermann steering, odometry, RViz, and F1TENTH simulation and hardware.
 
 ## Academic Context
