@@ -5,8 +5,6 @@ My control-module contribution to RoboRacer-Shiran, a five-member autonomous rac
 This repository documents my contribution and recorded results. The full project source code is maintained in the public team repository.
 
 - [Team repository](https://github.com/farhadvaseghi/RoboRacer-Shiran)
-- [Controller implementation](https://github.com/farhadvaseghi/RoboRacer-Shiran/blob/master/roboracer_control/src/pure_pursuit_controller.cpp)
-- [Controller parameters](https://github.com/farhadvaseghi/RoboRacer-Shiran/blob/master/roboracer_control/config/controller_params.yaml)
 
 ## My Contribution
 
